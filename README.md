@@ -1,5 +1,4 @@
 # Data_Vizualisation
-## with Pyhton
 
 # Different Visualization libraries in Pyhton with their orignal documentation and source codes:
 - Matplotlib: https://matplotlib.org/stable/
